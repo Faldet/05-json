@@ -1,0 +1,1652 @@
+[
+  {
+    product_id: '523486',
+    name: 'Kaspersky Small Office Security',
+    preview_text: '<p>Kaspersky Small Office Security&nbsp;&mdash; это удобное и&nbsp;простое в&nbsp;использовании решение, которое обеспечивает максимальную безопасность данных и&nbsp;рабочих станций.</p>\r\n',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/fcb/lksos.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678794': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '11708809': [Object],
+      '11708810': [Object],
+      '11708812': [Object],
+      '11708813': [Object],
+      '11708815': [Object],
+      '11708816': [Object],
+      '11708818': [Object],
+      '11708819': [Object]
+    }
+  },
+  {
+    product_id: '2256596',
+    name: 'Базовые лицензии Kaspersky TOTAL Security',
+    preview_text: '«Базовая лицензия» — основной способ приобретения программного решения при условии, что заказчик прежде не пользовался данным ПО «Лаборатории Касперского» или пользовался нелицензионной/ пробной версией. Лицензия действует 1 или 2 года.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/836/KS_total.png' },
+    system_requirements: '',
+    categories: {
+      '677903': [Object],
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '2258403': [Object],
+      '2258408': [Object],
+      '2258413': [Object],
+      '2258418': [Object],
+      '2258423': [Object],
+      '2258428': [Object],
+      '2258433': [Object],
+      '2258438': [Object],
+      '2258443': [Object],
+      '2258448': [Object],
+      '2258453': [Object],
+      '2258458': [Object],
+      '2258463': [Object],
+      '2258468': [Object],
+      '2258473': [Object],
+      '2258478': [Object]
+    }
+  },
+  {
+    product_id: '2256601',
+    name: 'Базовые лицензии Kaspersky Endpoint Security для бизнеса Cloud',
+    preview_text: '«Базовая лицензия» — основной способ приобретения программного решения при условии, что заказчик прежде не пользовался данным ПО «Лаборатории Касперского» или пользовался нелицензионной/ пробной версией. Лицензия действует 1 или 2 года.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/4c9/4c94db7c1893ac897ba63c4b346b2d01.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '11391811': [Object],
+      '11391814': [Object],
+      '11391817': [Object],
+      '11391820': [Object],
+      '11391823': [Object],
+      '11391826': [Object],
+      '11391829': [Object],
+      '11391832': [Object],
+      '11391835': [Object],
+      '11391838': [Object],
+      '11391841': [Object],
+      '11391844': [Object],
+      '11391847': [Object],
+      '11391850': [Object]
+    }
+  },
+  {
+    product_id: '2256608',
+    name: 'Базовые лицензии Kaspersky Endpoint Security для бизнеса СТАНДАРТНЫЙ ',
+    preview_text: '«Базовая лицензия» — основной способ приобретения программного решения при условии, что заказчик прежде не пользовался данным ПО «Лаборатории Касперского» или пользовался нелицензионной/ пробной версией. Лицензия действует 1 или 2 года.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/794/KSES_standart.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object],
+      '8522254': [Object]
+    },
+    positions: {
+      '2258243': [Object],
+      '2258248': [Object],
+      '2258253': [Object],
+      '2258258': [Object],
+      '2258263': [Object],
+      '2258268': [Object],
+      '2258273': [Object],
+      '2258278': [Object],
+      '2258283': [Object],
+      '2258288': [Object],
+      '2258293': [Object],
+      '2258298': [Object],
+      '2258303': [Object],
+      '2258308': [Object],
+      '2258313': [Object],
+      '2258318': [Object]
+    }
+  },
+  {
+    product_id: '2256611',
+    name: 'Базовые лицезии Kaspersky Endpoint Security для бизнеса РАСШИРЕННЫЙ',
+    preview_text: '«Базовая лицензия» — основной способ приобретения программного решения при условии, что заказчик прежде не пользовался данным ПО «Лаборатории Касперского» или пользовался нелицензионной/ пробной версией. Лицензия действует 1 или 2 года.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/f7b/KSES_more.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '2258323': [Object],
+      '2258328': [Object],
+      '2258333': [Object],
+      '2258338': [Object],
+      '2258343': [Object],
+      '2258348': [Object],
+      '2258353': [Object],
+      '2258358': [Object],
+      '2258363': [Object],
+      '2258368': [Object],
+      '2258373': [Object],
+      '2258378': [Object],
+      '2258383': [Object],
+      '2258388': [Object],
+      '2258393': [Object],
+      '2258398': [Object]
+    }
+  },
+  {
+    product_id: '2256641',
+    name: 'Kaspersky Security для почтовых серверов',
+    preview_text: 'Kaspersky Security для почтовых серверов&nbsp;&mdash; это решение для защиты почтовых серверов от&nbsp;вредоносных программ и&nbsp;спама. Продукт включает приложения для защиты почтовых платформ Microsoft Exchange и&nbsp;Lotus Domino и&nbsp;популярных почтовых приложений Sendmail, Qmail, Postfix и&nbsp;Exim, а&nbsp;также позволяет организовать выделенный почтовый шлюз.\r\n',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/ef1/KS_mail.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678794': [Object],
+      '679084': [Object]
+    },
+    positions: {
+      '3963844': [Object],
+      '3963846': [Object],
+      '3963847': [Object],
+      '3963848': [Object],
+      '3963849': [Object],
+      '12540700': [Object],
+      '12540701': [Object],
+      '12540702': [Object],
+      '12540703': [Object],
+      '12540705': [Object],
+      '12540706': [Object],
+      '12540707': [Object],
+      '12540708': [Object],
+      '12540710': [Object],
+      '12540711': [Object],
+      '12540712': [Object],
+      '12540713': [Object],
+      '12540715': [Object],
+      '12540716': [Object],
+      '12540717': [Object],
+      '12540718': [Object],
+      '12540720': [Object],
+      '12540721': [Object],
+      '12540722': [Object],
+      '12540723': [Object],
+      '12540725': [Object],
+      '12540726': [Object],
+      '12540727': [Object],
+      '12540728': [Object],
+      '12540730': [Object],
+      '12540731': [Object],
+      '12540732': [Object],
+      '12540733': [Object],
+      '12540735': [Object],
+      '12540736': [Object],
+      '12540737': [Object],
+      '12540738': [Object],
+      '12540740': [Object],
+      '12540741': [Object],
+      '12540742': [Object],
+      '12540743': [Object],
+      '12540745': [Object],
+      '12540746': [Object],
+      '12540747': [Object],
+      '12540748': [Object],
+      '12540750': [Object],
+      '12540751': [Object],
+      '12540752': [Object],
+      '12540753': [Object],
+      '12540754': [Object],
+      '12540755': [Object],
+      '12540756': [Object],
+      '12540758': [Object],
+      '12540759': [Object],
+      '12540760': [Object],
+      '12540761': [Object],
+      '12540763': [Object],
+      '12540764': [Object],
+      '12540765': [Object],
+      '12540766': [Object],
+      '12540768': [Object],
+      '12540769': [Object],
+      '12540770': [Object],
+      '12540771': [Object]
+    }
+  },
+  {
+    product_id: '2256645',
+    name: 'Kaspersky Security для виртуальных сред',
+    preview_text: 'Kaspersky Security для виртуальных сред специально разработан с&nbsp;учетом особенностей виртуальной IT-инфраструктуры. Это решение обеспечивает высочайший уровень защиты всей виртуальной инфраструктуры на&nbsp;базе популярных платформ VMware, Citrix, KVM и&nbsp;Microsoft.\r\n' +
+      '<p>Решение предлагается в&nbsp;двух вариантах&nbsp;&mdash; без агента (для сред VMware) и&nbsp;с&nbsp;легким агентом.</p>',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/9ee/KS_virt.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678794': [Object],
+      '679084': [Object]
+    },
+    positions: {
+      '9614330': [Object],
+      '9614331': [Object],
+      '9614340': [Object],
+      '9614341': [Object],
+      '9614350': [Object],
+      '9614351': [Object],
+      '9614360': [Object],
+      '9614361': [Object],
+      '9614370': [Object],
+      '9614371': [Object],
+      '9614380': [Object],
+      '9614381': [Object],
+      '9614390': [Object],
+      '9614391': [Object],
+      '9614400': [Object],
+      '9614401': [Object],
+      '9614540': [Object],
+      '9614541': [Object],
+      '9614550': [Object],
+      '9614551': [Object],
+      '9614560': [Object],
+      '9614561': [Object],
+      '9614570': [Object],
+      '9614571': [Object],
+      '9614580': [Object],
+      '9614581': [Object],
+      '9614590': [Object],
+      '9614591': [Object],
+      '9614600': [Object],
+      '9614601': [Object],
+      '9614610': [Object],
+      '9614611': [Object],
+      '9614620': [Object],
+      '9614621': [Object],
+      '9614630': [Object],
+      '9614631': [Object],
+      '9614640': [Object],
+      '9614641': [Object],
+      '9614650': [Object],
+      '9614651': [Object],
+      '9614660': [Object],
+      '9614661': [Object]
+    }
+  },
+  {
+    product_id: '2256648',
+    name: 'Kaspersky Security для интернет-шлюзов',
+    preview_text: 'Решение Kaspersky Security для интернет-шлюзов обеспечивает всем пользователям корпоративной сети безопасный доступ в&nbsp;интернет.\r\n' +
+      '<p>Kaspersky Security для интернет-шлюзов поддерживает все основные версии сетевых экранов. Вредоносные и&nbsp;потенциально опасные программы автоматически удаляются из&nbsp;потока данных, передаваемых по&nbsp;протоколам HTTP(s) и&nbsp;FTP. Технологии оптимизации работы приложений, масштабируемость и&nbsp;поддержка современных аппаратных платформ позволяют использовать продукт в&nbsp;крупных организациях с&nbsp;большим объемом трафика.</p>',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/3b5/KS_e-shluz.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678794': [Object],
+      '679084': [Object]
+    },
+    positions: {
+      '3963903': [Object],
+      '3963904': [Object],
+      '3963905': [Object],
+      '3963906': [Object],
+      '3963908': [Object],
+      '3963909': [Object],
+      '3963910': [Object],
+      '3963911': [Object],
+      '3963913': [Object],
+      '3963914': [Object],
+      '3963915': [Object],
+      '3963916': [Object],
+      '3963918': [Object],
+      '3963919': [Object],
+      '3963920': [Object],
+      '3963921': [Object],
+      '3963923': [Object],
+      '3963924': [Object],
+      '3963925': [Object],
+      '3963926': [Object],
+      '3963928': [Object],
+      '3963929': [Object],
+      '3963930': [Object],
+      '3963931': [Object],
+      '3963933': [Object],
+      '3963934': [Object],
+      '3963935': [Object],
+      '3963936': [Object],
+      '3963938': [Object],
+      '3963939': [Object],
+      '3963940': [Object],
+      '3963941': [Object],
+      '3963943': [Object],
+      '3963944': [Object],
+      '3963945': [Object],
+      '3963946': [Object],
+      '3963948': [Object],
+      '3963949': [Object],
+      '3963950': [Object],
+      '3963951': [Object],
+      '3963953': [Object],
+      '3963954': [Object],
+      '3963955': [Object],
+      '3963956': [Object],
+      '3963958': [Object],
+      '3963959': [Object],
+      '3963960': [Object],
+      '3963961': [Object],
+      '3963963': [Object],
+      '3963964': [Object],
+      '3963965': [Object],
+      '3963966': [Object],
+      '3963968': [Object],
+      '3963969': [Object],
+      '3963970': [Object],
+      '3963971': [Object],
+      '3963973': [Object],
+      '3963974': [Object],
+      '3963975': [Object],
+      '3963976': [Object],
+      '3963980': [Object],
+      '3963981': [Object],
+      '3963984': [Object],
+      '3963985': [Object]
+    }
+  },
+  {
+    product_id: '2256654',
+    name: 'Kaspersky Security для систем хранения данных базовые',
+    preview_text: 'Антивирус Касперского для систем хранения данных&nbsp;&mdash; это&nbsp;решение для&nbsp;защиты от&nbsp;вредоносных программ файлов и&nbsp;архивов, находящихся в&nbsp;файловых хранилищах EMC Celerra и&nbsp;VNX. Этот&nbsp;продукт обеспечивает защиту в&nbsp;режиме реального времени, проверку файлов и&nbsp;архивов на&nbsp;наличие угроз, а&nbsp;также поддерживает виртуальные среды.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/b5b/b5b0aad4afdf24fa8d84f8b26924595f.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678794': [Object],
+      '679084': [Object]
+    },
+    positions: {
+      '12540492': [Object],
+      '12540493': [Object],
+      '12540497': [Object],
+      '12540498': [Object],
+      '12540502': [Object],
+      '12540503': [Object],
+      '12540507': [Object],
+      '12540508': [Object],
+      '12540512': [Object],
+      '12540513': [Object],
+      '12540517': [Object],
+      '12540518': [Object],
+      '12540522': [Object],
+      '12540523': [Object],
+      '12540527': [Object],
+      '12540528': [Object],
+      '12540532': [Object],
+      '12540533': [Object],
+      '12540537': [Object],
+      '12540538': [Object],
+      '12540542': [Object],
+      '12540543': [Object],
+      '12540547': [Object],
+      '12540548': [Object],
+      '12540552': [Object],
+      '12540553': [Object],
+      '12540557': [Object],
+      '12540558': [Object],
+      '12540562': [Object],
+      '12540563': [Object],
+      '12540567': [Object],
+      '12540568': [Object],
+      '12540570': [Object],
+      '12540571': [Object],
+      '12540572': [Object],
+      '12540573': [Object],
+      '12540575': [Object],
+      '12540576': [Object],
+      '12540577': [Object],
+      '12540578': [Object],
+      '12540580': [Object],
+      '12540581': [Object],
+      '12540582': [Object],
+      '12540583': [Object],
+      '12540585': [Object],
+      '12540586': [Object],
+      '12540587': [Object],
+      '12540588': [Object],
+      '12540590': [Object],
+      '12540591': [Object],
+      '12540592': [Object],
+      '12540593': [Object],
+      '12540595': [Object],
+      '12540596': [Object],
+      '12540597': [Object],
+      '12540598': [Object],
+      '12540600': [Object],
+      '12540601': [Object],
+      '12540602': [Object],
+      '12540603': [Object],
+      '12540605': [Object],
+      '12540606': [Object],
+      '12540607': [Object],
+      '12540608': [Object],
+      '12540610': [Object],
+      '12540611': [Object],
+      '12540612': [Object],
+      '12540613': [Object],
+      '12540615': [Object],
+      '12540616': [Object],
+      '12540617': [Object],
+      '12540618': [Object],
+      '12540620': [Object],
+      '12540621': [Object],
+      '12540622': [Object],
+      '12540623': [Object],
+      '12540625': [Object],
+      '12540626': [Object],
+      '12540627': [Object],
+      '12540628': [Object],
+      '12540630': [Object],
+      '12540631': [Object],
+      '12540632': [Object],
+      '12540633': [Object],
+      '12540635': [Object],
+      '12540636': [Object],
+      '12540637': [Object],
+      '12540638': [Object],
+      '12540640': [Object],
+      '12540641': [Object],
+      '12540642': [Object],
+      '12540643': [Object],
+      '12540645': [Object],
+      '12540646': [Object],
+      '12540647': [Object],
+      '12540648': [Object],
+      '12540650': [Object],
+      '12540651': [Object],
+      '12540652': [Object],
+      '12540653': [Object],
+      '12540655': [Object],
+      '12540656': [Object],
+      '12540657': [Object],
+      '12540658': [Object],
+      '12540660': [Object],
+      '12540661': [Object],
+      '12540662': [Object],
+      '12540663': [Object],
+      '12540665': [Object],
+      '12540666': [Object],
+      '12540667': [Object],
+      '12540668': [Object],
+      '12540670': [Object],
+      '12540671': [Object],
+      '12540672': [Object],
+      '12540673': [Object],
+      '12540675': [Object],
+      '12540676': [Object],
+      '12540677': [Object],
+      '12540678': [Object],
+      '12540680': [Object],
+      '12540681': [Object],
+      '12540682': [Object],
+      '12540683': [Object],
+      '12540685': [Object],
+      '12540686': [Object],
+      '12540687': [Object],
+      '12540688': [Object],
+      '12540690': [Object],
+      '12540691': [Object],
+      '12540692': [Object],
+      '12540693': [Object],
+      '12540695': [Object],
+      '12540696': [Object],
+      '12540697': [Object],
+      '12540698': [Object]
+    }
+  },
+  {
+    product_id: '2256659',
+    name: 'Kaspersky Internet Security для всех устройств',
+    preview_text: 'Kaspersky Internet Security для&nbsp;всех устройств&nbsp;&mdash; это&nbsp;единое комплексное решение для&nbsp;универсальной защиты любых устройств на&nbsp;платформах Windows, Mac&nbsp;OS и&nbsp;Android. Данный продукт блокирует любые интернет-угрозы, обеспечивает безопасность online платежей, защищает общение в&nbsp;Интернете и&nbsp;по&nbsp;СМС, а&nbsp;также имеет функцию &laquo;Родительский контроль&raquo;.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/291/kismd_170_20425-276364.png'
+    },
+    system_requirements: '&lt;p&gt;&lt;b&gt;Для всех устройств&lt;/b&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Требуется подключение к Интернету для активации продукта, получения обновлений и доступа к некоторым функциям&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;b&gt;Рабочие станции и ноутбуки Windows&lt;/b&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;&lt;p&gt;Операционные системы:&lt;br&gt; &nbsp;&nbsp;—&nbsp;Microsoft Windows 10** RTM (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows 8.1 / Профессиональная / Корпоративная (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows 8 / Профессиональная / Корпоративная (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows 7 (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows Vista (32 и 64 бит***)&lt;/p&gt;&lt;/li&gt;\r\n' +
+      '\r\n' +
+      '\r\n' +
+      '&lt;li&gt;&lt;p&gt;Аппаратные требования:&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Около 480 МБ свободного дискового пространства,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;CD-ROM или DVD-ROM (для установки программы с диска),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Internet Explorer 8* или выше,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Установщик Microsoft Windows 3.0 или выше,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft .NET Framework 4 или выше,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Технология защиты web-камеры работает только на компьютерах Windows,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Не менее 1 ГГц,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;1 ГБ (для 32-разрядной системы) или 2 ГБ (для 64-разрядной системы)\r\n' +
+      '&lt;/p&gt;&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Планшеты Windows (с процессорами Intel)&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Windows 8.1 / 8.1 Профессиональная (64 бит***)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Windows 8 / 8 Профессиональная (64 бит***)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 1024x600&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Рабочие станции и ноутбуки Mac&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;550 МБ свободного дискового пространства&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Память: 2 ГБ&lt;/li&gt;\r\n' +
+      '&lt;li&gt;OS X 10.8, 10.9, 10.10&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Смартфоны и планшеты на базе Android&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Android 2.3–5.0&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 320x480&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;iPhone и iPad****&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;iOS 7.0 и выше&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Windows Phone****&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Windows Phone 8&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;________________\r\n' +
+      '&lt;br /&gt;\r\n' +
+      '&lt;/p&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;* В Microsoft Internet Explorer 8 не гарантируется правильная работа портала My Kaspersky и функций управления безопасностью.&lt;br&gt;\r\n' +
+      '** В настоящее время на платформе Windows 10 RTM ограничен доступ к следующим функциям: Контроль активности программ, Сканирование системной памяти, Самозащита. Продукт не предназначен для использования на мобильных версиях Windows 10.&lt;br&gt;\r\n' +
+      '*** Некоторые функции продукта доступны только для 32-разрядных операционных систем.&lt;br&gt;\r\n' +
+      '**** Для этой платформы доступен только браузер Kaspersky Safe Browser.&lt;/p&gt;\r\n',
+    categories: {
+      '677900': [Object],
+      '677926': [Object],
+      '678792': [Object],
+      '678799': [Object],
+      '678803': [Object],
+      '679087': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '12505354': [Object],
+      '12505355': [Object],
+      '12505356': [Object],
+      '12505357': [Object],
+      '12505358': [Object],
+      '12505359': [Object]
+    }
+  },
+  {
+    product_id: '2256660',
+    name: 'Kaspersky Anti-Virus',
+    preview_text: 'Kaspersky Anti-Virus &mdash; это решение для&nbsp;базовой защиты компьютера от&nbsp;основных видов интернет-угроз. Данное решение защищает от&nbsp;вредоносных программ, проверяет сайты, файлы и&nbsp;сообщения и&nbsp;при&nbsp;этом отличается высокой скоростью работы.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/86d/kav-170-20425-276361.png'
+    },
+    system_requirements: '&lt;p&gt;Требуется подключение к&nbsp;интернету для активации продукта, получения обновлений и доступа к&nbsp;некоторым функциям.&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt;&lt;strong&gt;Операционные системы&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 10* RTM (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 8.1 / Профессиональная / Корпоративная / 8.1 с обновлением (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 8 / Профессиональная / Корпоративная (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 7 Начальная / Домашняя базовая / Домашняя расширенная / Профессиональная / Максимальная SP1 или выше (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows Vista Home Basic / Home Premium / Business / Enterprise / Ultimate SP1 или выше (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows XP Home / Professional (32 бит) SP3 или выше / Professional (64 бит**) SP2 или выше&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt;&lt;strong&gt;Аппаратные требования&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Процессор: не менее 800 МГц&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Память: 512 Mб&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Около 480 МБ свободного дискового пространства&lt;/li&gt;\r\n' +
+      '&lt;li&gt;CD- или DVD-ROM (для установки программы с диска)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Internet Explorer 8* или выше&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Установщик Microsoft Windows 3.0 или выше&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft .NET Framework 4 или выше&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Планшеты Windows (с процессорами Intel)&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 10* RTM (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Windows 8.1 / 8.1 Профессиональная (64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Windows 8 / 8 Профессиональная (64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 1024x600&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;em&gt;* В настоящее время на платформе Windows 10 RTM ограничен доступ к следующим функциям: контроль активности программ; сканирование системной памяти; самозащита. Продукт не&nbsp;предназначен для использования на мобильных версиях Windows 10.&lt;br&gt;\r\n' +
+      '** Некоторые функции продукта доступны только для 32-разрядных операционных систем.&lt;/em&gt;&lt;/p&gt;',
+    categories: {
+      '677900': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '679087': [Object],
+      '697368': [Object]
+    },
+    positions: { '5779872': [Object], '5779873': [Object] }
+  },
+  {
+    product_id: '2716763',
+    name: 'Продление лицензий Kaspersky Endpoint Security для бизнеса СТАНДАРТНЫЙ ',
+    preview_text: 'После окончания срока действия базовой лицензии заказчик может в течение года продлить ее действие. Оптимальное время обновления лицензии — не ранее чем за 14 дней до истечения срока действия текущей лицензии и не позднее даты его окончания. Скидка при покупке продления лицензии составляет 40&#37;. Подписка на обновления продлевается на те же самые продукты и то же количество лицензий, которые были задействованы в первичном лицензионном соглашении. Для получения скидки необходимо предъявить копию старой лицензии.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/06f/KSES_standart.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '2258242': [Object],
+      '2258247': [Object],
+      '2258252': [Object],
+      '2258257': [Object],
+      '2258262': [Object],
+      '2258267': [Object],
+      '2258272': [Object],
+      '2258277': [Object],
+      '2258282': [Object],
+      '2258287': [Object],
+      '2258292': [Object],
+      '2258297': [Object],
+      '2258302': [Object],
+      '2258307': [Object],
+      '2258312': [Object],
+      '2258317': [Object]
+    }
+  },
+  {
+    product_id: '2718135',
+    name: 'Продление лицензий Kaspersky Endpoint Security для бизнеса Cloud',
+    preview_text: 'После окончания срока действия базовой лицензии заказчик может в течение года продлить ее действие. Оптимальное время обновления лицензии — не ранее чем за 14 дней до истечения срока действия текущей лицензии и не позднее даты его окончания. Скидка при покупке продления лицензии составляет 40&#37;. Подписка на обновления продлевается на те же самые продукты и то же количество лицензий, которые были задействованы в первичном лицензионном соглашении. Для получения скидки необходимо предъявить копию старой лицензии. ',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/962/9628302b10dd535ac24bb81e896efca2.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '11391810': [Object],
+      '11391813': [Object],
+      '11391816': [Object],
+      '11391819': [Object],
+      '11391822': [Object],
+      '11391825': [Object],
+      '11391828': [Object],
+      '11391831': [Object],
+      '11391834': [Object],
+      '11391837': [Object],
+      '11391840': [Object],
+      '11391843': [Object],
+      '11391846': [Object],
+      '11391849': [Object]
+    }
+  },
+  {
+    product_id: '2718171',
+    name: 'Продление лицензий Kaspersky Endpoint Security для бизнеса РАСШИРЕННЫЙ',
+    preview_text: 'После окончания срока действия базовой лицензии заказчик может в течение года продлить ее действие. Оптимальное время обновления лицензии — не ранее чем за 14 дней до истечения срока действия текущей лицензии и не позднее даты его окончания. Скидка при покупке продления лицензии составляет 40&#37;. Подписка на обновления продлевается на те же самые продукты и то же количество лицензий, которые были задействованы в первичном лицензионном соглашении. Для получения скидки необходимо предъявить копию старой лицензии.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/082/KSES_more.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '2258322': [Object],
+      '2258327': [Object],
+      '2258332': [Object],
+      '2258337': [Object],
+      '2258342': [Object],
+      '2258347': [Object],
+      '2258352': [Object],
+      '2258357': [Object],
+      '2258362': [Object],
+      '2258367': [Object],
+      '2258372': [Object],
+      '2258377': [Object],
+      '2258382': [Object],
+      '2258387': [Object],
+      '2258392': [Object],
+      '2258397': [Object]
+    }
+  },
+  {
+    product_id: '2718867',
+    name: 'Продление лицензий Kaspersky TOTAL Security',
+    preview_text: 'После окончания срока действия базовой лицензии заказчик может в течение года продлить ее действие. Оптимальное время обновления лицензии — не ранее чем за 14 дней до истечения срока действия текущей лицензии и не позднее даты его окончания. Скидка при покупке продления лицензии составляет 40&#37;. Подписка на обновления продлевается на те же самые продукты и то же количество лицензий, которые были задействованы в первичном лицензионном соглашении. Для получения скидки необходимо предъявить копию старой лицензии. ',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/ac9/KS_total.png' },
+    system_requirements: '',
+    categories: {
+      '677903': [Object],
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '2258402': [Object],
+      '2258407': [Object],
+      '2258412': [Object],
+      '2258417': [Object],
+      '2258422': [Object],
+      '2258427': [Object],
+      '2258432': [Object],
+      '2258437': [Object],
+      '2258442': [Object],
+      '2258447': [Object],
+      '2258452': [Object],
+      '2258457': [Object],
+      '2258462': [Object],
+      '2258467': [Object],
+      '2258472': [Object],
+      '2258477': [Object]
+    }
+  },
+  {
+    product_id: '4508273',
+    name: 'Kaspersky Certified media Pack',
+    preview_text: 'Продукты «Лаборатории Касперского» имеют сертификаты соответствия ФСТЭК России и ФСБ, а также полностью соответствуют требованиям закона о защите персональных данных и могут применяться для защиты систем персональных данных до первого класса включительно и&nbsp;для&nbsp;защиты сведений, составляющих государственную тайну. Kaspersky Certified media Pack — специальные медиа-паки, которые позволяют любую версию продуктов Kaspersky Security для бизнеса сделать сертифицированной.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/846/thumb_60146.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '697368': [Object]
+    },
+    positions: { '3096081': [Object], '3096082': [Object], '3096083': [Object] }
+  },
+  {
+    product_id: '4515527',
+    name: 'Лицензии Kaspersky TOTAL Security для академических учреждений',
+    preview_text: 'Академические организации могут приобрести продукты «Лаборатории Касперского» по&nbsp;специальной цене со скидкой до 70&nbsp;&#37;. Возможность участия в акции уточняется при&nbsp;предоставлении лицензии на ведение образовательной деятельности.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/461/KS_total.png' },
+    system_requirements: '',
+    categories: {
+      '677903': [Object],
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '3095885': [Object],
+      '3095886': [Object],
+      '3095888': [Object],
+      '3095889': [Object],
+      '3095891': [Object],
+      '3095892': [Object],
+      '3095894': [Object],
+      '3095895': [Object],
+      '3095897': [Object],
+      '3095898': [Object],
+      '3095900': [Object],
+      '3095901': [Object],
+      '3095903': [Object],
+      '3095904': [Object],
+      '3095906': [Object],
+      '3095907': [Object],
+      '3095909': [Object],
+      '3095910': [Object],
+      '3095912': [Object],
+      '3095913': [Object],
+      '3095915': [Object],
+      '3095916': [Object],
+      '3095918': [Object],
+      '3095919': [Object],
+      '3095921': [Object],
+      '3095922': [Object],
+      '3095924': [Object],
+      '3095925': [Object],
+      '3095927': [Object],
+      '3095928': [Object],
+      '3095930': [Object],
+      '3095935': [Object]
+    }
+  },
+  {
+    product_id: '4517979',
+    name: 'Лицензии Kaspersky Endpoint Security для бизнеса РАСШИРЕННЫЙ для академических учреждений',
+    preview_text: 'Академические организации могут приобрести продукты «Лаборатории Касперского» по&nbsp;специальной цене со скидкой до 70&nbsp;&#37;. Возможность участия в акции уточняется при&nbsp;предоставлении лицензии на ведение образовательной деятельности.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/43c/KSES_more.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '3095837': [Object],
+      '3095838': [Object],
+      '3095840': [Object],
+      '3095841': [Object],
+      '3095843': [Object],
+      '3095844': [Object],
+      '3095846': [Object],
+      '3095847': [Object],
+      '3095849': [Object],
+      '3095850': [Object],
+      '3095852': [Object],
+      '3095853': [Object],
+      '3095855': [Object],
+      '3095856': [Object],
+      '3095858': [Object],
+      '3095859': [Object],
+      '3095861': [Object],
+      '3095862': [Object],
+      '3095864': [Object],
+      '3095865': [Object],
+      '3095867': [Object],
+      '3095868': [Object],
+      '3095870': [Object],
+      '3095871': [Object],
+      '3095873': [Object],
+      '3095874': [Object],
+      '3095876': [Object],
+      '3095877': [Object],
+      '3095879': [Object],
+      '3095880': [Object],
+      '3095882': [Object],
+      '3095883': [Object]
+    }
+  },
+  {
+    product_id: '4518141',
+    name: 'Лицензии Kaspersky Endpoint Security для бизнеса СТАНДАРТНЫЙ для академических учреждений',
+    preview_text: 'Академические организации могут приобрести продукты «Лаборатории Касперского» по&nbsp;специальной цене со скидкой до 70&nbsp;&#37;. Возможность участия в акции уточняется при&nbsp;предоставлении лицензии на ведение образовательной деятельности.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/1eb/KSES_standart.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '677935': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '3095789': [Object],
+      '3095790': [Object],
+      '3095792': [Object],
+      '3095793': [Object],
+      '3095795': [Object],
+      '3095796': [Object],
+      '3095798': [Object],
+      '3095799': [Object],
+      '3095801': [Object],
+      '3095802': [Object],
+      '3095804': [Object],
+      '3095805': [Object],
+      '3095807': [Object],
+      '3095808': [Object],
+      '3095810': [Object],
+      '3095811': [Object],
+      '3095813': [Object],
+      '3095814': [Object],
+      '3095816': [Object],
+      '3095817': [Object],
+      '3095819': [Object],
+      '3095820': [Object],
+      '3095822': [Object],
+      '3095823': [Object],
+      '3095825': [Object],
+      '3095826': [Object],
+      '3095828': [Object],
+      '3095829': [Object],
+      '3095831': [Object],
+      '3095832': [Object],
+      '3095834': [Object],
+      '3095835': [Object]
+    }
+  },
+  {
+    product_id: '4537689',
+    name: 'Kaspersky Anti-Virus',
+    preview_text: 'Kaspersky Anti-Virus 2016 &mdash; это решение для&nbsp;базовой защиты компьютера от&nbsp;основных видов интернет-угроз. Данное решение защищает от&nbsp;вредоносных программ, проверяет сайты, файлы и&nbsp;сообщения и&nbsp;при&nbsp;этом отличается высокой скоростью работы.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/36d/kav-170-20425-276361.png'
+    },
+    system_requirements: '&lt;p&gt;Требуется подключение к&nbsp;интернету для активации продукта, получения обновлений и доступа к&nbsp;некоторым функциям.&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt;&lt;strong&gt;Операционные системы&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 10* RTM (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 8.1 / Профессиональная / Корпоративная / 8.1 с обновлением (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 8 / Профессиональная / Корпоративная (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 7 Начальная / Домашняя базовая / Домашняя расширенная / Профессиональная / Максимальная SP1 или выше (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows Vista Home Basic / Home Premium / Business / Enterprise / Ultimate SP1 или выше (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows XP Home / Professional (32 бит) SP3 или выше / Professional (64 бит**) SP2 или выше&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt;&lt;strong&gt;Аппаратные требования&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Процессор: не менее 800 МГц&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Память: 512 Mб&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Около 480 МБ свободного дискового пространства&lt;/li&gt;\r\n' +
+      '&lt;li&gt;CD- или DVD-ROM (для установки программы с диска)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft Internet Explorer 8* или выше&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Установщик Microsoft Windows 3.0 или выше&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Microsoft .NET Framework 4 или выше&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Планшеты Windows (с процессорами Intel)&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Microsoft Windows 10* RTM (32 и 64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Windows 8.1 / 8.1 Профессиональная (64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Windows 8 / 8 Профессиональная (64 бит**)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 1024x600&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;em&gt;* В настоящее время на платформе Windows 10 RTM ограничен доступ к следующим функциям: контроль активности программ; сканирование системной памяти; самозащита. Продукт не&nbsp;предназначен для использования на мобильных версиях Windows 10.&lt;br&gt;\r\n' +
+      '** Некоторые функции продукта доступны только для 32-разрядных операционных систем.&lt;/em&gt;&lt;/p&gt;',
+    categories: {
+      '677900': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '679087': [Object],
+      '697368': [Object]
+    },
+    positions: { '5803375': [Object], '5803376': [Object] }
+  },
+  {
+    product_id: '4537704',
+    name: 'Kaspersky Internet Security для всех устройств',
+    preview_text: 'Kaspersky Internet Security для&nbsp;всех устройств 2016&nbsp;&mdash; это&nbsp;единое комплексное решение для&nbsp;универсальной защиты любых устройств на&nbsp;платформах Windows, Mac&nbsp;OS и&nbsp;Android. Данный продукт блокирует любые интернет-угрозы, обеспечивает безопасность online платежей, защищает общение в&nbsp;Интернете и&nbsp;по&nbsp;СМС, а&nbsp;также имеет функцию &laquo;Родительский контроль&raquo;.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/0b2/kismd_170_20425-276364.png'
+    },
+    system_requirements: '&lt;p&gt;&lt;b&gt;Для всех устройств&lt;/b&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Требуется подключение к Интернету для активации продукта, получения обновлений и доступа к некоторым функциям&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;b&gt;Рабочие станции и ноутбуки Windows&lt;/b&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;&lt;p&gt;Операционные системы:&lt;br&gt; &nbsp;&nbsp;—&nbsp;Microsoft Windows 10** RTM (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows 8.1 / Профессиональная / Корпоративная (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows 8 / Профессиональная / Корпоративная (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows 7 (32 и 64 бит***),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Windows Vista (32 и 64 бит***)&lt;/p&gt;&lt;/li&gt;\r\n' +
+      '\r\n' +
+      '\r\n' +
+      '&lt;li&gt;&lt;p&gt;Аппаратные требования:&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Около 480 МБ свободного дискового пространства,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;CD-ROM или DVD-ROM (для установки программы с диска),&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft Internet Explorer 8* или выше,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Установщик Microsoft Windows 3.0 или выше,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Microsoft .NET Framework 4 или выше,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Технология защиты web-камеры работает только на компьютерах Windows,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;Не менее 1 ГГц,&lt;br&gt;\r\n' +
+      '&nbsp;&nbsp;—&nbsp;1 ГБ (для 32-разрядной системы) или 2 ГБ (для 64-разрядной системы)\r\n' +
+      '&lt;/p&gt;&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Планшеты Windows (с процессорами Intel)&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Windows 8.1 / 8.1 Профессиональная (64 бит***)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Windows 8 / 8 Профессиональная (64 бит***)&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 1024x600&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Рабочие станции и ноутбуки Mac&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;550 МБ свободного дискового пространства&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Память: 2 ГБ&lt;/li&gt;\r\n' +
+      '&lt;li&gt;OS X 10.8, 10.9, 10.10&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Смартфоны и планшеты на базе Android&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Android 2.3–5.0&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 320x480&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;iPhone и iPad****&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;iOS 7.0 и выше&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;&lt;strong&gt;Windows Phone****&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Windows Phone 8&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;________________\r\n' +
+      '&lt;br /&gt;\r\n' +
+      '&lt;/p&gt;\r\n' +
+      '\r\n' +
+      '&lt;p&gt;* В Microsoft Internet Explorer 8 не гарантируется правильная работа портала My Kaspersky и функций управления безопасностью.&lt;br&gt;\r\n' +
+      '** В настоящее время на платформе Windows 10 RTM ограничен доступ к следующим функциям: Контроль активности программ, Сканирование системной памяти, Самозащита. Продукт не предназначен для использования на мобильных версиях Windows 10.&lt;br&gt;\r\n' +
+      '*** Некоторые функции продукта доступны только для 32-разрядных операционных систем.&lt;br&gt;\r\n' +
+      '**** Для этой платформы доступен только браузер Kaspersky Safe Browser.&lt;/p&gt;\r\n',
+    categories: {
+      '677900': [Object],
+      '677926': [Object],
+      '678792': [Object],
+      '678799': [Object],
+      '678803': [Object],
+      '679087': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '12508269': [Object],
+      '12508270': [Object],
+      '12508271': [Object],
+      '12508272': [Object],
+      '12508273': [Object],
+      '12508274': [Object]
+    }
+  },
+  {
+    product_id: '4537705',
+    name: 'Kaspersky Small Office Security',
+    preview_text: '<p>Kaspersky Small Office Security&nbsp;&mdash; это удобное и&nbsp;простое в&nbsp;использовании решение, которое обеспечивает максимальную безопасность данных и&nbsp;рабочих станций.</p>\r\n' +
+      '<p><strong>Основные возможности списком:</strong></p>\r\n' +
+      '\t<ul>\r\n' +
+      '\t\t<li>Интеграция с&nbsp;глобальной облачной сетью безопасности Kaspersky Security Network для блокирования новейших угроз в&nbsp;режиме реального времени;</li>\r\n' +
+      '\t\t<li>Защита компьютеров Windows и&nbsp;Mac, файловых серверов Windows и&nbsp;мобильных устройств Android;</li>\r\n' +
+      '\t\t<li>Уникальная технология Безопасные платежи обеспечивает защиту финансовых операций в&nbsp;интернете;</li>\r\n' +
+      '\t\t<li>Инструменты для контроля использования интернета сотрудниками и&nbsp;ограничения их&nbsp;доступа к&nbsp;социальным сетям;</li>\r\n' +
+      '\t\t<li>Шифрование для защиты конфиденциальных данных компании и&nbsp;ее&nbsp;клиентов;</li>\r\n' +
+      '\t\t<li>Технологии анти-фишинга для блокирования поддельных и&nbsp;вредоносных веб-сайтов;</li>\r\n' +
+      '\t\t<li>Эффективная фильтрация спама;</li>\r\n' +
+      '\t\t<li>Удобное управление паролями;</li>\r\n' +
+      '\t\t<li>Автоматическое резервное копирование файлов в&nbsp;Dropbox для предотвращения потери важных данных;</li>\r\n' +
+      '\t</ul>\r\n' +
+      '<p>или</p>\r\n' +
+      '\t<ul>\r\n' +
+      '\t\t<li>Специализированное решение для малого бизнеса;</li>\r\n' +
+      '\t\t<li>Защита компьютеров и&nbsp;файловых серверов Windows, компьютеров Mac, смартфонов и&nbsp;планшетов Android;</li>\r\n' +
+      '\t\t<li>Безопасная работа в&nbsp;интернете;</li>\r\n' +
+      '\t\t<li>Простое управление с&nbsp;любого устройства;</li>\r\n' +
+      '\t\t<li>Защита конфиденциальных данных компании и&nbsp;ее&nbsp;клиентов;</li>\r\n' +
+      '\t\t<li> Защита финансовых операций в&nbsp;интернете;</li>\r\n' +
+      '\t</ul>',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/f1c/lksos.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678794': [Object],
+      '697368': [Object]
+    },
+    positions: { '11708806': [Object], '11708807': [Object] }
+  },
+  {
+    product_id: '4537770',
+    name: 'Kaspersky Internet Security для Android',
+    preview_text: 'Kaspersky Internet Security для Android — антивирус для Android с&nbsp;дополнительными функциями защиты от потери устройства и&nbsp;обеспечения конфиденциальности общения.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/0fd/kis-a200-24825-276438.png'
+    },
+    system_requirements: '&lt;ul&gt;\r\n' +
+      '&lt;li&gt;Требуемая версия Android: 2.3 или более поздняя&lt;/li&gt;\r\n' +
+      '&lt;li&gt;Минимальное разрешение экрана: 320 x 480&lt;/li&gt;\r\n' +
+      '&lt;/ul&gt;',
+    categories: {
+      '677900': [Object],
+      '678790': [Object],
+      '678794': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: { '4532798': [Object] }
+  },
+  {
+    product_id: '4537883',
+    name: 'Kaspersky Total Security для всех устройств',
+    preview_text: 'Kaspersky Total Security для всех устройств — максимальная защита ваших финансов, конфиденциальности, семьи и личных данных в Интернете.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/fbd/kts-md-200-31025-276356.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677900': [Object],
+      '677926': [Object],
+      '677932': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '678794': [Object],
+      '679083': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '12508275': [Object],
+      '12508276': [Object],
+      '12508277': [Object],
+      '12508278': [Object]
+    }
+  },
+  {
+    product_id: '8276372',
+    name: 'Kaspersky Security для банкоматов и точек мгновенной оплаты',
+    preview_text: 'В&nbsp;наши дни встраиваемые системы можно встретить повсюду: в&nbsp;автоматах по&nbsp;продаже билетов, банкоматах, платежных терминалах, POS-cистемах, медицинском оборудовании и&nbsp;во&nbsp;многих других устройствах. Kaspersky Embedded Systems Security защищает устройства, работающие под управлением Windows, от&nbsp;несанкционированного доступа и&nbsp;кибератак.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/cbe/embedded.png' },
+    system_requirements: '&lt;p&gt;&lt;strong&gt;Общие требования: &lt;/strong&gt;&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; x86-совместимые системы в&nbsp;однопроцессорной и&nbsp;многопроцессорной конфигурации. &lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; Объем дискового пространства: &lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;ul&gt; \r\n' +
+      '  &lt;li&gt; при установке компонента Контроль запуска программ&nbsp;&mdash; 50&nbsp;МБ;&lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;при установке всех программных компонентов&nbsp;— 500&nbsp;МБ.&lt;/li&gt;\r\n' +
+      ' &lt;/ul&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; &lt;strong&gt;Объем оперативной памяти:&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; от&nbsp;256&nbsp;МБ (при установке компонента Контроль запуска программ на&nbsp;устройстве под управлением 32-разрядных операционных систем Microsoft Windows XP&nbsp;Embedded&nbsp;/ Windows XP&nbsp;/ Windows Embedded POSReady 2009) до&nbsp;2&nbsp;Гб.&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; &lt;strong&gt;Программные требования к&nbsp;операционной системе:&lt;/strong&gt;&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; Для установки и&nbsp;работы решения на&nbsp;устройстве под управлением Windows XP&nbsp;требуется наличие Microsoft Windows Installer&nbsp;3.1.&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;p&gt; 32-разрядные ОС&nbsp;Microsoft Windows:&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '&lt;ul&gt; \r\n' +
+      '  &lt;li&gt; Windows XP&nbsp;Embedded &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows XP&lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded POSReady 2009 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded Standard 7 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded POSReady 7 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows 7 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded&nbsp;8.1 Industry Pro &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded&nbsp;8.0&nbsp;Standard. &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows 8 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows&nbsp;8.1 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt; Windows&nbsp;10 Enterprise &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;p&gt;64-разрядные ОС&nbsp;Microsoft Windows: Windows Embedded Standard 7&lt;/p&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt; Windows Embedded POSReady 7 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows 7 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded&nbsp;8.1 Industry Pro &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows Embedded&nbsp;8.0 Standard &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows 8 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows&nbsp;8.1 &lt;/li&gt;\r\n' +
+      ' \r\n' +
+      '  &lt;li&gt;Windows 10&nbsp;Enterprise.&lt;/li&gt;\r\n' +
+      ' &lt;/ul&gt;\r\n',
+    categories: { '677905': [Object], '678790': [Object] },
+    positions: {
+      '5598691': [Object],
+      '5598697': [Object],
+      '5598703': [Object],
+      '5598709': [Object],
+      '5598715': [Object],
+      '5598720': [Object],
+      '5598721': [Object],
+      '5598727': [Object],
+      '5598733': [Object]
+    }
+  },
+  {
+    product_id: '10583658',
+    name: 'Запрайсовые лицензии Kaspersky 500+',
+    preview_text: '\r\n<br />\r\n ',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/b4a/KS_for_bussines.png' },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '677930': [Object],
+      '679085': [Object],
+      '8522254': [Object]
+    },
+    positions: {
+      '12532730': [Object],
+      '12532732': [Object],
+      '12532733': [Object],
+      '12532734': [Object],
+      '12532735': [Object],
+      '12532737': [Object],
+      '12532738': [Object],
+      '12532739': [Object],
+      '12532740': [Object],
+      '12532742': [Object],
+      '12532743': [Object],
+      '12532744': [Object],
+      '12532745': [Object],
+      '12532747': [Object],
+      '12532748': [Object],
+      '12532749': [Object],
+      '12532750': [Object],
+      '12532752': [Object],
+      '12532753': [Object],
+      '12532754': [Object],
+      '12532755': [Object],
+      '12532757': [Object],
+      '12532758': [Object],
+      '12532759': [Object],
+      '12532760': [Object],
+      '12532762': [Object],
+      '12532763': [Object],
+      '12532764': [Object],
+      '12532765': [Object],
+      '12532767': [Object],
+      '12532768': [Object],
+      '12532769': [Object],
+      '12532770': [Object],
+      '12532772': [Object],
+      '12532773': [Object],
+      '12532774': [Object],
+      '12532775': [Object],
+      '12532777': [Object],
+      '12532778': [Object],
+      '12532779': [Object],
+      '12532780': [Object],
+      '12532782': [Object],
+      '12532783': [Object],
+      '12532784': [Object],
+      '12532785': [Object],
+      '12532787': [Object],
+      '12532788': [Object],
+      '12532789': [Object],
+      '12532790': [Object],
+      '12532792': [Object],
+      '12532793': [Object],
+      '12532794': [Object],
+      '12532795': [Object],
+      '12532797': [Object],
+      '12532798': [Object],
+      '12532799': [Object],
+      '12532800': [Object],
+      '12532802': [Object],
+      '12532803': [Object],
+      '12532804': [Object],
+      '12532805': [Object],
+      '12532807': [Object],
+      '12532808': [Object],
+      '12532809': [Object],
+      '12532810': [Object],
+      '12532812': [Object],
+      '12532813': [Object],
+      '12532814': [Object],
+      '12532815': [Object],
+      '12532817': [Object],
+      '12532818': [Object],
+      '12532819': [Object],
+      '12532820': [Object],
+      '12532822': [Object],
+      '12532823': [Object],
+      '12532824': [Object],
+      '12532825': [Object],
+      '12532827': [Object],
+      '12532828': [Object],
+      '12532829': [Object],
+      '12532830': [Object],
+      '12532832': [Object],
+      '12532833': [Object],
+      '12532834': [Object],
+      '12532840': [Object],
+      '12532842': [Object],
+      '12532843': [Object],
+      '12532844': [Object],
+      '12532850': [Object],
+      '12532852': [Object],
+      '12532853': [Object],
+      '12532854': [Object],
+      '12532860': [Object],
+      '12532862': [Object],
+      '12532863': [Object],
+      '12532864': [Object],
+      '12532870': [Object],
+      '12532872': [Object],
+      '12532873': [Object],
+      '12532874': [Object],
+      '12533140': [Object],
+      '12533142': [Object],
+      '12533143': [Object],
+      '12533144': [Object],
+      '12533150': [Object],
+      '12533152': [Object],
+      '12533153': [Object],
+      '12533154': [Object],
+      '12533160': [Object],
+      '12533162': [Object],
+      '12533163': [Object],
+      '12533164': [Object],
+      '12533170': [Object],
+      '12533172': [Object],
+      '12533173': [Object],
+      '12533174': [Object],
+      '12533180': [Object],
+      '12533182': [Object],
+      '12533183': [Object],
+      '12533184': [Object],
+      '12533240': [Object],
+      '12533242': [Object],
+      '12533243': [Object],
+      '12533244': [Object],
+      '12533250': [Object],
+      '12533252': [Object],
+      '12533253': [Object],
+      '12533254': [Object],
+      '12533260': [Object],
+      '12533262': [Object],
+      '12533263': [Object],
+      '12533264': [Object],
+      '12533270': [Object],
+      '12533272': [Object],
+      '12533273': [Object],
+      '12533274': [Object],
+      '12533280': [Object],
+      '12533282': [Object],
+      '12533283': [Object],
+      '12533284': [Object],
+      '12533290': [Object],
+      '12533292': [Object],
+      '12533293': [Object],
+      '12533294': [Object],
+      '12540778': [Object],
+      '12540779': [Object],
+      '12540780': [Object],
+      '12540781': [Object],
+      '12540788': [Object],
+      '12540789': [Object],
+      '12540790': [Object],
+      '12540791': [Object],
+      '12540798': [Object],
+      '12540799': [Object],
+      '12540800': [Object],
+      '12540801': [Object],
+      '12540808': [Object],
+      '12540809': [Object],
+      '12540810': [Object],
+      '12540811': [Object],
+      '12540905': [Object],
+      '12540906': [Object],
+      '12540907': [Object],
+      '12540908': [Object],
+      '12540910': [Object],
+      '12540911': [Object],
+      '12540912': [Object],
+      '12540913': [Object],
+      '12540915': [Object],
+      '12540916': [Object],
+      '12540917': [Object],
+      '12540918': [Object],
+      '12540920': [Object],
+      '12540921': [Object],
+      '12540922': [Object],
+      '12540923': [Object],
+      '12540925': [Object],
+      '12540926': [Object],
+      '12540927': [Object],
+      '12540928': [Object],
+      '12540930': [Object],
+      '12540931': [Object],
+      '12540932': [Object],
+      '12540933': [Object],
+      '12540935': [Object],
+      '12540936': [Object],
+      '12540937': [Object],
+      '12540938': [Object],
+      '12540940': [Object],
+      '12540941': [Object],
+      '12540942': [Object],
+      '12540943': [Object],
+      '12540945': [Object],
+      '12540946': [Object],
+      '12540947': [Object],
+      '12540948': [Object],
+      '12540950': [Object],
+      '12540951': [Object],
+      '12540952': [Object],
+      '12540953': [Object]
+    }
+  },
+  {
+    product_id: '11463170',
+    name: 'Kaspersky Security for Microsoft Office 365',
+    preview_text: 'Обнаружение и&nbsp;блокирование спама и&nbsp;вредоносных сообщений до&nbsp;того, как они успеют причинить ущерб, без замедления работы и&nbsp;случайного удаления легитимного трафика.',
+    preview_image: { url: 'http://axoft.ru/upload/iblock/2cf/office-365.png' },
+    system_requirements: 'Для управления Kaspersky Security для Microsoft Office 365 вам понадобится только браузер. Программные и&nbsp;аппаратные требования к&nbsp;компьютеру или мобильному устройству соответствуют требованиям браузера, используемого для управления Kaspersky Security для Microsoft Office 365.',
+    categories: {
+      '678790': [Object],
+      '678794': [Object],
+      '5494895': [Object],
+      '11118980': [Object]
+    },
+    positions: {
+      '9182161': [Object],
+      '9182171': [Object],
+      '9182181': [Object],
+      '9182191': [Object],
+      '9182201': [Object],
+      '9182211': [Object],
+      '9182221': [Object],
+      '9182231': [Object]
+    }
+  },
+  {
+    product_id: '11628726',
+    name: 'Продление лицензий Kaspersky Endpoint Security для бизнеса УНИВЕРСАЛЬНЫЙ',
+    preview_text: 'Kaspersky Endpoint Security для бизнеса Универсальный объединяет в&nbsp;одном продукте все необходимые функции управления и&nbsp;контроля для всех типов конечных точек&nbsp;&mdash; как виртуальных, так и&nbsp;физических. Передовые средства защиты и&nbsp;управления снижают нагрузку на&nbsp;администраторов и&nbsp;позволяет повысить общий уровень безопасности компании.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/f53/product-icon-universal.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '11628249': [Object],
+      '11628254': [Object],
+      '11628259': [Object],
+      '11628264': [Object],
+      '11628269': [Object],
+      '11628274': [Object],
+      '11628279': [Object],
+      '11628284': [Object],
+      '11628289': [Object],
+      '11628294': [Object],
+      '11628299': [Object],
+      '11628304': [Object],
+      '11628309': [Object],
+      '11628314': [Object],
+      '11628319': [Object],
+      '11628324': [Object]
+    }
+  },
+  {
+    product_id: '11628728',
+    name: 'Лицензии Kaspersky Endpoint Security для бизнеса УНИВЕРСАЛЬНЫЙ для академических учреждений',
+    preview_text: 'Kaspersky Endpoint Security для бизнеса Универсальный для академических учреждений объединяет в&nbsp;одном продукте все необходимые функции управления и&nbsp;контроля для всех типов конечных точек&nbsp;&mdash; как виртуальных, так и&nbsp;физических. Передовые средства защиты и&nbsp;управления снижают нагрузку на&nbsp;администраторов и&nbsp;позволяет повысить общий уровень безопасности компании.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/c5c/product-icon-universal.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '677935': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '11628252': [Object],
+      '11628253': [Object],
+      '11628262': [Object],
+      '11628263': [Object],
+      '11628272': [Object],
+      '11628273': [Object],
+      '11628282': [Object],
+      '11628283': [Object],
+      '11628292': [Object],
+      '11628293': [Object],
+      '11628302': [Object],
+      '11628303': [Object],
+      '11628312': [Object],
+      '11628313': [Object],
+      '11628322': [Object],
+      '11628323': [Object]
+    }
+  },
+  {
+    product_id: '11628746',
+    name: 'Базовые лицензии Kaspersky Endpoint Security для бизнеса УНИВЕРСАЛЬНЫЙ',
+    preview_text: 'Kaspersky Endpoint Security для бизнеса Универсальный объединяет в&nbsp;одном продукте все необходимые функции управления и&nbsp;контроля для всех типов конечных точек&nbsp;&mdash; как виртуальных, так и&nbsp;физических. Передовые средства защиты и&nbsp;управления снижают нагрузку на&nbsp;администраторов и&nbsp;позволяет повысить общий уровень безопасности компании.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/c20/product-icon-universal.png'
+    },
+    system_requirements: '',
+    categories: {
+      '677905': [Object],
+      '677926': [Object],
+      '678790': [Object],
+      '678792': [Object],
+      '679083': [Object],
+      '679087': [Object],
+      '696695': [Object],
+      '697368': [Object]
+    },
+    positions: {
+      '11628250': [Object],
+      '11628255': [Object],
+      '11628260': [Object],
+      '11628265': [Object],
+      '11628270': [Object],
+      '11628275': [Object],
+      '11628280': [Object],
+      '11628285': [Object],
+      '11628290': [Object],
+      '11628295': [Object],
+      '11628300': [Object],
+      '11628305': [Object],
+      '11628310': [Object],
+      '11628315': [Object],
+      '11628320': [Object],
+      '11628325': [Object]
+    }
+  },
+  {
+    product_id: '11826191',
+    name: 'Kaspersky Automated Security Awareness Platform',
+    preview_text: 'Автоматизированная платформа Kaspersky Security Awareness&nbsp;&mdash; это инновационное решение для повышения навыков сотрудников в&nbsp;сфере кибербезопаснсти, сочетающее новейшие образовательные технологии с&nbsp;двадцатилетним экспертным опытом &laquo;Лаборатории Касперского&raquo;. Обеспечивает максимальную информированность сотрудников и&nbsp;формирует новые модели кибербезопасного поведения. Модель компетенции, включающая 350 навыков кибербезопасности.',
+    preview_image: {
+      url: 'http://axoft.ru/upload/iblock/03d/Kaspersky-Security-Awareness.png'
+    },
+    system_requirements: '',
+    categories: { '677903': [Object], '677905': [Object] },
+    positions: {
+      '11391955': [Object],
+      '11391959': [Object],
+      '11391963': [Object],
+      '11391975': [Object],
+      '11391979': [Object]
+    }
+  }
+]
